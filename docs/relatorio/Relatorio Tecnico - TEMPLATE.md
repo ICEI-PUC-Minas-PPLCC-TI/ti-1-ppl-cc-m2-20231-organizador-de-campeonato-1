@@ -87,9 +87,9 @@
 > 
 > **Personas**
 > 
-> !(images/Persona1.png)
-> !(images/Persona2.png)
-> !(images/Persona3.png)
+> ![Personas](images/Persona1.png)
+> ![Personas](images/Persona2.png)
+> ![Personas](images/Persona3.png)
 > 
 
 >

@@ -231,7 +231,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVMYCb9Uk=/?share_link_id=946364279832 |
 |Repositório de código | GitHub | https://github.com/XXXXXXX | 
 |Hospedagem do site | Heroku |  https://XXXXXXX.herokuapp.com | 
-|Protótipo Interativo | MavelApp ou Figma | https://figma.com/XXXXXXX | 
+|Protótipo Interativo | MavelApp ou Figma | https://www.figma.com/files/team/1230259766516332694/Organizador-de-Campeonatos?fuid=1230281308124788490 | 
 
 >
 > Liste as ferramentas empregadas no desenvolvimento do

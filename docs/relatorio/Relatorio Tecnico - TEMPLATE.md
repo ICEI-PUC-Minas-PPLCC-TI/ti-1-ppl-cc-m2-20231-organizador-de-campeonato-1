@@ -126,7 +126,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-001| Permitir que o usuário se inscreva no torneio | ALTA | 
 |RF-002| Permitir que os usuários pesquisem por campeonatos em andamento ou próximos que eles possam querer participar.| MÉDIA |
 |RF-003| Possibilitar que os usuários criem um perfil e personalizem suas informações, incluindo seus nomes, fotos e informações sobre suas habilidades no jogo. | ALTA |
-
+|RF-004| Permitir que os usuários se comuniquem uns com os outros através de um sistema de mensagens dentro do site.| MÉDIA |
+|RF-005| Oferecer a opção de jogos individuais ou em equipe, permitindo que os usuários escolham jogar sozinhos ou com amigos. | BAIXA |
 
 ### Requisitos não Funcionais
 

@@ -87,14 +87,15 @@
 > 
 > **Personas**
 > 
-> ![Personas](images/Persona1.png)
-> ![Personas](images/Persona2.png)
-> ![Personas](images/Persona3.png)
+> ![Personas](images/Persona1.jpg)
+> ![Personas](images/Persona2.jpg)
+> ![Personas](images/Persona3.jpg)
 > 
-
 >
-> **Exemplo de Proposta de Valor**
-> ![Exemplo da Proposta de Valor](images/proposta_valor.png)
+> **Proposta de Valor**
+> ![Proposta de Valor](images/PropostadeValor1.jpg)
+> ![Proposta de Valor](images/PropostadeValor2.jpg)
+> ![Proposta de Valor](images/PropostadeValor3.jpg)
 
 
 ## Histórias de Usuários

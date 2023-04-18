@@ -60,17 +60,9 @@
 
 ## Justificativa
 
-> Descreva a importância ou a motivação para trabalhar com esta aplicação
-> que você escolheu. Indique as razões pelas quais você escolheu seus
-> objetivos específicos ou as razões para aprofundar em certos aspectos
-> do software.
-> 
-> O grupo de trabalho pode fazer uso de questionários, entrevistas e
-> dados estatísticos, que podem ser apresentados, com o objetivo de
-> esclarecer detalhes do problema que será abordado pelo grupo.
->
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+> O projeto teve como iniciativa criar um software devido a ausência de plataformas que organizam o campeonatos do jogo Fifa.
+> É possível observar que em outros jogos plataformas semelhantes estão funcionando com êxito, o que nós motiva a implementar
+> essa plataforma para o jogo de futebol Fifa, um dos jogos online da sua categoria mais famosos e jogado.
 
 ## Público-Alvo
 

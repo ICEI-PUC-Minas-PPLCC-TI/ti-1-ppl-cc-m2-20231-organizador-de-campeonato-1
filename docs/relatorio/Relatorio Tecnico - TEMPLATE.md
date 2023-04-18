@@ -133,9 +133,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O site deve ser executado em qualquer plataforma      | ALTA | 
-|RNF-002| O sistema deve ter alta disponibilidade  |  MÉDIA | 
-
+|RNF-001| Certificar-se de que o site seja compatível com vários navegadores e dispositivos, para que os usuários possam acessá-lo de qualquer lugar.| ALTA | 
+|RNF-002| Assegurar que o site seja escalável, para que possa lidar com um grande número de usuários simultâneos e cresça com o tempo. |  MÉDIA | 
+|RNF-003| Garantir a privacidade dos usuários, protegendo suas informações e dados pessoais. | ALTA |
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
 >

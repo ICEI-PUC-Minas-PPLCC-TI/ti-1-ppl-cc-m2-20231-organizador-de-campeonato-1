@@ -219,8 +219,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
-
 | Ambiente  | Plataforma              |Link de Acesso |
 |-----------|-------------------------|---------------|
 |Processo de Design Thinkgin  | Miro |  https://miro.com/app/board/uXjVMYCb9Uk=/?share_link_id=946364279832 |

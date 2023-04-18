@@ -124,18 +124,18 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| Permitir que o usuário se inscreva no torneio | ALTA | 
-|RF-002| Permitir que os usuários pesquisem por campeonatos em andamento ou próximos que eles possam querer participar.| MÉDIA |
-|RF-003| Possibilitar que os usuários criem um perfil e personalizem suas informações, incluindo seus nomes, fotos e informações sobre suas habilidades no jogo. | ALTA |
+|RF-002| Permitir que os usuários pesquisem por campeonatos em andamento ou próximos que eles possam querer participar| MÉDIA |
+|RF-003| Possibilitar que os usuários criem um perfil e personalizem suas informações, incluindo seus nomes, fotos e informações sobre suas habilidades no jogo | ALTA |
 |RF-004| Permitir que os usuários se comuniquem uns com os outros através de um sistema de mensagens dentro do site.| MÉDIA |
-|RF-005| Oferecer a opção de jogos individuais ou em equipe, permitindo que os usuários escolham jogar sozinhos ou com amigos. | BAIXA |
+|RF-005| Oferecer a opção de jogos individuais ou em equipe, permitindo que os usuários escolham jogar sozinhos ou com amigos | BAIXA |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| Certificar-se de que o site seja compatível com vários navegadores e dispositivos, para que os usuários possam acessá-lo de qualquer lugar.| ALTA | 
-|RNF-002| Assegurar que o site seja escalável, para que possa lidar com um grande número de usuários simultâneos e cresça com o tempo. |  MÉDIA | 
-|RNF-003| Garantir a privacidade dos usuários, protegendo suas informações e dados pessoais. | ALTA |
+|RNF-001| Certificar-se de que o site seja compatível com vários navegadores e dispositivos, para que os usuários possam acessá-lo de qualquer lugar| ALTA | 
+|RNF-002| Assegurar que o site seja escalável, para que possa lidar com um grande número de usuários simultâneos e cresça com o tempo |  MÉDIA | 
+|RNF-003| Garantir a privacidade dos usuários, protegendo suas informações e dados pessoais | ALTA |
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:
 >

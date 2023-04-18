@@ -25,8 +25,6 @@
   - [Personas, Empatia e Proposta de Valor](#personas-empatia-e-proposta-de-valor)
   - [Histórias de Usuários](#histórias-de-usuários)
   - [Requisitos](#requisitos)
-    - [Requisitos Funcionais](#requisitos-funcionais)
-    - [Requisitos não Funcionais](#requisitos-não-funcionais)
   - [Restrições](#restrições)
 - [Projeto de Interface](#projeto-de-interface)
   - [User Flow](#user-flow)
@@ -72,11 +70,8 @@
  
 # Especificações do Projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Apresente uma visão geral do que será abordado nesta parte do
-> documento, enumerando as técnicas e/ou ferramentas utilizadas para
-> realizar a especificações do projeto
+> Nas especificações será abordado sobre as personas, proposta de valor, histórias de usuários e requisitos funcionais e não funcionais.
+> As ferramentas utilizads para realizar o projeto foram a plataforma do Miro e Github.
 
 ## Personas, Empatia e Proposta de Valor
 
@@ -145,6 +140,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
+......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
 
 > Apresente as principais interfaces da solução. Discuta como 
 > foram elaboradas de forma a atender os requisitos funcionais, não

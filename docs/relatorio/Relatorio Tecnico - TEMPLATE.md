@@ -85,11 +85,13 @@
 >  No geral eles precisam estudar ou trabalhar. Se estão estudando possuem mais tempo livre do que trabalhando. Ambos querem encontrar uma nova maneira para jogar
 >  e poderiam fazer isso atrvés do site.
 > 
-> **Exemplo de Persona**
+> **Personas**
 > 
-> ![Exemplo de Persona](images/persona.png)
+> (images/Persona1.png)
+> (images/Persona2.png)
+> (images/Persona3.png)
 > 
-> Fonte: [Como criar uma persona para o seu negócio](https://raissaviegas.com.br/como-criar-uma-persona/)
+
 >
 > **Exemplo de Proposta de Valor**
 > ![Exemplo da Proposta de Valor](images/proposta_valor.png)

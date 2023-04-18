@@ -1,11 +1,7 @@
 # Informações do Projeto
-`TÍTULO DO PROJETO`  
+`Organizador de Campeonatos`  
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-`CURSO` 
-
-......  COLOQUE AQUI O SEU TEXTO ......
+`Ciência da Computação` 
 
 ## Participantes
 

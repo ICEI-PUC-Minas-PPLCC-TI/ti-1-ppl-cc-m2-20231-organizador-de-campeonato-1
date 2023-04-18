@@ -5,13 +5,11 @@
 
 ## Participantes
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Inclua a lista dos membros da equipe com seus nomes completos.
->
 > Os membros do grupo são: 
-> - Fulano da Silva
-> - Ciclano Albuquerque
+> - Gabriel Alves Bragança
+> - Henrique Fialho Cardoso
+> - Lucas Delgado Rocha
+> - Mateus Soares Gatti Vasconcellos
 
 # Estrutura do Documento
 

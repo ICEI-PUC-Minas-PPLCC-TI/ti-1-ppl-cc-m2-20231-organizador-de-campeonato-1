@@ -124,7 +124,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| Permitir que o usuário se inscreva no torneio | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês  | MÉDIA |
+|RF-002| Permitir que os usuários pesquisem por campeonatos em andamento ou próximos que eles possam querer participar.| MÉDIA |
+|RF-003| Possibilitar que os usuários criem um perfil e personalizem suas informações, incluindo seus nomes, fotos e informações sobre suas habilidades no jogo. | ALTA |
 
 
 ### Requisitos não Funcionais
@@ -132,7 +133,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| O site deve ser executado em qualquer plataforma      | ALTA | 
-|RNF-002| O sistema deve ter alta disponiilidade  |  MÉDIA | 
+|RNF-002| O sistema deve ter alta disponibilidade  |  MÉDIA | 
 
 > Com base nas Histórias de Usuário, enumere os requisitos da sua
 > solução. Classifique esses requisitos em dois grupos:

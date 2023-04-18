@@ -136,12 +136,6 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-001| Certificar-se de que o site seja compatível com vários navegadores e dispositivos, para que os usuários possam acessá-lo de qualquer lugar| ALTA | 
 |RNF-002| Assegurar que o site seja escalável, para que possa lidar com um grande número de usuários simultâneos e cresça com o tempo |  MÉDIA | 
 |RNF-003| Garantir a privacidade dos usuários, protegendo suas informações e dados pessoais | ALTA |
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
 
 ## Restrições
 

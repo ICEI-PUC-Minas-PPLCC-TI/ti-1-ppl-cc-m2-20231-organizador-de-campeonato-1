@@ -107,7 +107,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Usuário             | Personalizar meu perfil              | Poder se destacar e mostrar minhas habilidades e conquistas    |
 |Administrador       | Visualizar relatórios de atividades  | Poder gerenciar e monitorar o site |
 |Usuário             | Poder conversar com outros jogadores | Trocar dicas e estratégias, e conhecer novas pessoas|
-|ADministrador       | Alterar permissões                   | Permitir que outros usuários possam administrar contas|
+|Administrador       | Alterar permissões                   | Permitir que outros usuários possam administrar contas|
 |Usuário             | Depositar e retirar dinheiro do site | Poder fazer apostas e receber meus prêmios|
 
 

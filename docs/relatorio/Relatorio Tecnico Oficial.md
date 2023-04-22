@@ -28,7 +28,8 @@
   - [Restrições](#restrições)
 - [Projeto de Interface](#projeto-de-interface)
   - [User Flow](#user-flow)
-  - [Wireframes](#wireframes)
+  - [Wirefra[Org de camp 1.pdf](https://github.com/ICEI-PUC-Minas-PPLCC-TI/ti-1-ppl-cc-m2-20231-organizador-de-campeonato-1/files/11302042/Org.de.camp.1.pdf)
+mes](#wireframes)
 - [Metodologia](#metodologia)
   - [Divisão de Papéis](#divisão-de-papéis)
   - [Ferramentas](#ferramentas)
@@ -184,6 +185,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > **Exemplo**:
 > 
 > ![Exemplo de Wireframe](images/wireframe-example.png)
+> !.[Wireframe do site](org-de-camp-1.pdf) 
 
 
 # Metodologia

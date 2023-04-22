@@ -184,8 +184,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > 
 > **Exemplo**:
 > 
-> ![Exemplo de Wireframe](images/wireframe-example.png)
-> !.[Wireframe do site](org-de-camp-1.pdf) 
+> ![Exemplo de Wireframe](images/wireframe-example.png) 
 
 
 # Metodologia

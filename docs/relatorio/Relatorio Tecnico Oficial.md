@@ -177,20 +177,20 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > 
 > ![Exemplo de Wireframe](images/wireframe-example.png) 
 > **Página Inicial**:
-> [Wireframe da página inicial](images/paginainicial.jpeg)
+> ![Wireframe da página inicial](images/paginainicial.jpeg)
 > Nessa página será mostrado a logo do site, botões de navegação, principais campeonatos disponíveis
 > no momento, um carrousel com imagens ilustrativas e os resultados dos campeonatos anteriores do usuário.
 > **Login**:
-> [Página de login](images/login.jpeg)
+> ![Página de login](images/login.jpeg)
 > Nessa página será feito o login do usuário.
 > **Sign up**:
-> [Sign Up](images/crieconta.jpeg)
+> ![Sign Up](images/crieconta.jpeg)
 > Essa página é destinada a novos usuários que não possuem conta na aplicação.
 > **Criar campeonato**
-> [Crie o campeonato](campeonato.jpeg)
+> ![Crie o campeonato](campeonato.jpeg)
 > Nessa página o usuário criará seu campeonato e adicionará os participantes.
 > **Chaveamento**
-> [Chaveamento](chaveamento.jpeg)
+> ![Chaveamento](chaveamento.jpeg)
 > Nessa página o usuário irá vizualizar o andamento da competição.
 
 

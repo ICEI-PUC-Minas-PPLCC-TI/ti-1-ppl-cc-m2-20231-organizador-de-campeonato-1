@@ -183,13 +183,13 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 > **Criar campeonato**
 
-> ![Crie o campeonato](campeonato.jpeg)
+> ![Crie o campeonato](images/campeonato.jpeg)
 
 > Nessa página o usuário criará seu campeonato e adicionará os participantes.
 
 > **Chaveamento**
 
-> ![Chaveamento](chaveamento.jpeg)
+> ![Chaveamento](images/chaveamento.jpeg)
 
 > Nessa página o usuário irá vizualizar o andamento da competição.
 

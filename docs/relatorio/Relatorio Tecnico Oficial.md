@@ -141,8 +141,13 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 # Projeto de Interface
 
-......  COLOQUE AQUI O SEU TEXTO DE INTRODUÇÃO ......
-
+...... INTRODUÇÃO À INTERFACE DO PROJETO ......
+> As interfaces do site foram criadas de modo que atenda as necessidades dos usuários
+> vistas nas entrevistas, na página inicial é apresentado os principais campeonatos do 
+> site, de modo que o usuário clique e consiga se inscrever, também tem um espaço para 
+> criação de contas, e para o usuário criar seu próprio campeonato com seus amigos, depois
+> da tela de criação de campeonatos há o chaveamento do campeonato, restrito em até as oitavas
+> de finais, dessa forma o usuário poderá vizualizar o andamento da competição.
 > Apresente as principais interfaces da solução. Discuta como 
 > foram elaboradas de forma a atender os requisitos funcionais, não
 > funcionais e histórias de usuário abordados nas [Especificações do

@@ -162,35 +162,35 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ......  INCLUA AQUI OS WIREFRAMES DAS TELAS DA APLICAÇÃO COM UM BREVE DESCRITIVO ......
 
-> Wireframes são protótipos das telas da aplicação usados em design de interface para sugerir a
-> estrutura de um site web e seu relacionamentos entre suas
-> páginas. Um wireframe web é uma ilustração semelhante ao
-> layout de elementos fundamentais na interface.
-> 
-> **Links Úteis**:
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> 
-> **Exemplo**:
-> 
-> ![Exemplo de Wireframe](images/wireframe-example.png) 
 > **Página Inicial**:
+
 > ![Wireframe da página inicial](images/paginainicial.jpeg)
+
 > Nessa página será mostrado a logo do site, botões de navegação, principais campeonatos disponíveis
 > no momento, um carrousel com imagens ilustrativas e os resultados dos campeonatos anteriores do usuário.
+
 > **Login**:
+
 > ![Página de login](images/login.jpeg)
+
 > Nessa página será feito o login do usuário.
+
 > **Sign up**:
+
 > ![Sign Up](images/crieconta.jpeg)
+
 > Essa página é destinada a novos usuários que não possuem conta na aplicação.
+
 > **Criar campeonato**
+
 > ![Crie o campeonato](campeonato.jpeg)
+
 > Nessa página o usuário criará seu campeonato e adicionará os participantes.
+
 > **Chaveamento**
+
 > ![Chaveamento](chaveamento.jpeg)
+
 > Nessa página o usuário irá vizualizar o andamento da competição.
 
 

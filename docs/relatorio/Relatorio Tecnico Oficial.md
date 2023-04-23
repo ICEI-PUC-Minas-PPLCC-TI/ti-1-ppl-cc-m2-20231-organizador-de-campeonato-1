@@ -148,10 +148,6 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > criação de contas, e para o usuário criar seu próprio campeonato com seus amigos, depois
 > da tela de criação de campeonatos há o chaveamento do campeonato, restrito em até as oitavas
 > de finais, dessa forma o usuário poderá vizualizar o andamento da competição.
-> Apresente as principais interfaces da solução. Discuta como 
-> foram elaboradas de forma a atender os requisitos funcionais, não
-> funcionais e histórias de usuário abordados nas [Especificações do
-> Projeto](#especificações-do-projeto).
 
 ## User Flow
 
@@ -168,7 +164,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
 >
 > **Exemplo**:
-> 
+>
 > ![Exemplo de UserFlow](images/userflow.jpg)
 
 

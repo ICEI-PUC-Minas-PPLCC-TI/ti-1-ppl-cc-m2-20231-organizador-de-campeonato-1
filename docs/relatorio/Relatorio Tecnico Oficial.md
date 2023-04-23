@@ -164,7 +164,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > - [Top 25 User Flow Tools & Templates for Smooth](https://www.mockplus.com/blog/post/user-flow-tools)
 >
 > **Exemplo**:
->
+> ![user flow](images/userflow.jpeg)
 > ![Exemplo de UserFlow](images/userflow.jpg)
 
 

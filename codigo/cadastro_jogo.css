@@ -1,0 +1,52 @@
+header {
+    background-color: #343a40;
+    padding: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+      
+  
+  .header-button {
+    margin-left: 10px;
+    padding: 10px 20px;
+    background-color: #1fa5e1;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+      
+  
+  .logo {
+    width: auto;
+    height: 100px;
+    margin-right: 10px;
+  }    
+      
+  @media (max-width: 768px) {
+    header {
+      flex-direction: column;
+      align-items: flex-start;
+    }        
+    .header-button {
+      margin-top: 10px;
+      margin-left: 0;
+    }
+  }
+
+body {
+    margin: 0;
+    padding: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+.container {
+    width: 100%;
+    height: 100%;
+}
+
+.form-group,
+.custom-file {
+    margin: 10px 0 10px 0;
+}

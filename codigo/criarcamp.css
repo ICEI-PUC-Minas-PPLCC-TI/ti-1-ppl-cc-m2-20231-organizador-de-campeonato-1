@@ -1,0 +1,142 @@
+
+header {
+  background-color: #343a40;
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+    
+
+.header-button {
+  margin-left: 10px;
+  padding: 10px 20px;
+  background-color: #1fa5e1;
+  color: white;
+  text-decoration: none;
+  border-radius: 5px;
+}
+    
+
+.logo {
+  width: auto;
+  height: 100px;
+  margin-right: 10px;
+}    
+    
+@media (max-width: 768px) {
+  header {
+    flex-direction: column;
+    align-items: flex-start;
+  }        
+  .header-button {
+    margin-top: 10px;
+    margin-left: 0;
+  }
+}
+
+body {
+  background-color: white;
+  padding-top: 0px;
+}
+
+h2 {
+  text-align: center;
+}
+
+form {
+  margin-left: 10px;
+  margin-right: 10px;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.form-wrapper {
+  max-width: 800px;
+  margin: 0 auto;
+  padding-top: 5vh;
+  background-color: grey;
+  border-radius: 10px;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.form-group label {
+  margin-bottom: 5px;
+}
+
+.form-group input,
+.form-group select,
+.form-group textarea {
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 0 3px rgba(0, 0, 0, 0.1);
+  font-size: 16px;
+}
+
+.form-group input[type="number"] {
+  width: 100%;
+}
+
+.form-group input[type="password"],
+.form-group textarea {
+  height: 40px;
+}
+
+.form-group input[type="password"] {
+  flex: 1;
+}
+
+.form-group input[type="password"]+input[type="password"] {
+  margin-left: 10px;
+}
+
+.form-group select {
+  appearance: none;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24'%3E%3Cpath fill='%23000000' d='M12 15.5l5-5H7z'/%3E%3C/svg%3E") no-repeat;
+  background-position: right 10px center;
+}
+
+.form-group select::-ms-expand {
+  display: none;
+}
+
+.form-group input[type="submit"] {
+  background-color: #1fa5e1;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.form-group input[type="submit"]:hover {
+  background-color: #1fa5e1;
+}
+
+/* Estilos para dispositivos móveis */
+
+@media (max-width: 480px) {
+
+  .form-group input,
+  .form-group select,
+  .form-group textarea {
+    font-size: 14px;
+  }
+
+  .form-group input[type="password"],
+  .form-group textarea {
+    height: 30px;
+  }
+
+  .form-group input[type="submit"] {
+    padding: 8px 16px;
+  }
+}
+    

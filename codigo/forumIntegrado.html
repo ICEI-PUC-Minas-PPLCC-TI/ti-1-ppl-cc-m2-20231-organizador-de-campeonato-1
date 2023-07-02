@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="forumIntegrado.css">
+  <title>Chaveamento</title>
+</head>
+
+<body>
+<header>
+  <div>
+    <img class="logo" src="a.png" alt="Logo do Site">
+  </div>
+  <div>
+    <a class="header-button" href="index.html">Página Inicial</a>
+    <a class="header-button" href="login.html">Login</a>
+    <a class="header-button" href="criarcamp.html">Criar Campeonato</a>
+    <a class="header-button" href="inscricao.html">Inscrição em Campeonato</a>
+    <a class="fa-solid fa-user fa-2xl" href="#" style="color: #1fa5e1;"></a>
+  </div>
+</header>
+
+<h1>TABELA DE JOGOS</h1>
+
+<form id="jogo-form">
+  <label for="timeA">Time A:</label>
+  <input type="text" id="timeA" required>
+
+  <label for="placarA">Placar A:</label>
+  <input type="text" id="placarA" required>
+
+  <label for="timeB">Time B:</label>
+  <input type="text" id="timeB" required>
+
+  <label for="placarB">Placar B:</label>
+  <input type="text" id="placarB" required>
+
+  <button type="submit">Adicionar Jogo</button>
+</form>
+
+<table id="chaveamento" class="tabela-chaveamento">
+  <thead>
+    <tr>
+      <th>Time A</th>
+      <th>Placar A</th>
+      <th>x</th>
+      <th>Placar B</th>
+      <th>Time B</th>
+    </tr>
+  </thead>
+  <tbody>
+  </tbody>
+</table>
+
+<div class="container">
+  <h1>Fórum de Comentários</h1>
+  <form id="comment-form">
+      <label for="name">Nome:</label>
+      <input type="text" id="name" required>
+      <label for="comment">Comentário:</label>
+      <textarea id="comment" required></textarea>
+      <button type="submit">Enviar Comentário</button>
+  </form>
+  <div id="comments"></div>
+</div>
+
+<script src="forumIntegrado.js"></script>
+</body>
+</html>

@@ -288,12 +288,19 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
   - HTML: Para a estrutura do site.
 
     ![Tela inicial](images/telainicial.png)
-    ![Salvar placares e fórum](images/chaveamentoforum.png)
-    ![Dados](images/dadosjson.png)
-    ![Inscricao](images/inscricao.png)
-    ![Cadastro](images/cadastro.png)    
 
-  - 
+    Nessa tela inicial, o usuário irá poder se locomover para as principais funcionalidades do site, além disso, quando ocorrer campeonatos organizados pelo          próprio site vai aparecer em "campeonatos acontecendo", quando o campeonato se encerrar vai aparecer em "campeonatos encerrados".
+
+    ![Salvar placares e fórum](images/chaveamentoforum.png)
+
+    Nessa página, é utilizado mais o javascript, para gerar a tabela de jogos, que são inseridos os resultados pelo próprio usuário, fazeno com que ele possa         organizar o seu campeonato online salvando os jogos.
+    ![Dados](images/dadosjson.png)
+
+    O arquivo JSON mostrado, estrutura os dados dos placares e nomes dos times digitados pelo usuário.
+    ![Inscricao](images/inscricao.png)
+
+    Esse é o lugar onde o usuário pode se inscrever em campeonatos criados pelo próprio site, também é onde ele ve a dificuldade deles, para que seja justo de        jogar
+   
 
 > Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
 > problema, ou seja, implementar a sua solução. Liste todas as

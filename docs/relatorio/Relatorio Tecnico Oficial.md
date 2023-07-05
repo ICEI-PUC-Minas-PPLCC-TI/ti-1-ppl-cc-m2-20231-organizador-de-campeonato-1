@@ -274,7 +274,22 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 ## Tecnologias Utilizadas
 
-......  COLOQUE AQUI O SEU TEXTO ......
+  FORAM UTILIZADAS AS SEGUINTES TÉCNOLOGIAS:
+  - CANVA: Utilizado para criar logotipo, figuras e imagens para a criação do próprio relatório do site.
+  - Replit: Utilizado para facilitar o trabalho em grupo, para editar o código simultâneamente.
+  - Figma: Utilizado para a criação do User Flow e Wireframe do site.
+  - VsCode: Utilizado para criar o site.
+  - Github: Para atualizar e salvar os arquivos, além de compartilhar o projeto.
+  - Stackoverflow: Tirar duvidas sobre os códigos.
+    LINGUAGENS
+  - Javascript: Utilizado para gerar o chaveamento e salvar o placar dos jogos das equipes.
+  - JSON: Salvar as informações dos jogos e login dos usuários.
+  - CSS: Para a estilização do site.
+  - HTML: Para a estrutura do site.
+
+    
+
+  - 
 
 > Descreva aqui qual(is) tecnologias você vai usar para resolver o seu
 > problema, ou seja, implementar a sua solução. Liste todas as
@@ -288,6 +303,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 > (stoyboards), além dos protótipos de telas (wireframes). Descreva cada
 > item textualmente comentando e complementando o que está apresentado
 > nas imagens.
+>
 
 ## Arquitetura da solução
 

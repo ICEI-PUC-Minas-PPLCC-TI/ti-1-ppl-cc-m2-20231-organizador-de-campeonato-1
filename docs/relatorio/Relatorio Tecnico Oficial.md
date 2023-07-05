@@ -287,7 +287,11 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
   - CSS: Para a estilização do site.
   - HTML: Para a estrutura do site.
 
-    
+    ![Tela inicial](images/telainicial.png)
+    ![Salvar placares e fórum](images/chaveamentoforum.png)
+    ![Dados](images/dadosjson.png)
+    ![Inscricao](images/inscricao.png)
+    ![Cadastro](images/cadastro.png)    
 
   - 
 

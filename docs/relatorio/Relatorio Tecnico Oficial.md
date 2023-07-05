@@ -50,7 +50,7 @@ mes](#wireframes)
 ## Problema
 
 >  O problema em questão é a dificuldade que pessoas possuem para criar campeonatos de Fifa de maneira online, devido a falta de uma plataforma que organiza e
->  encontra pessoas com o mesmo interesse. No jogo Fifa, possui a opção de criar um campeonato, porém os jogadores só conseguem jogar localmente. até então há       poucas maneiras de formar um campeonato online, os principais campeonatos não oficiais do jogo são organizados de maneira local. Outros sites de organizar        campeonatos cobram obrigatóriamente uma taxa de inscrição, mas há jogadores que só querem competir de maneira saudável e preferem não gastar dinheiro para        jogar com os amigos.
+>  encontra pessoas com o mesmo interesse. No jogo Fifa, possui a opção de criar um campeonato, porém os jogadores só conseguem jogar localmente. Até então há       poucas maneiras de formar um campeonato online, os principais campeonatos não oficiais do jogo são organizados de maneira local. Outros sites de organizar        campeonatos cobram obrigatóriamente uma taxa de inscrição, mas há jogadores que só querem competir de maneira saudável e preferem não gastar dinheiro para        jogar com os amigos.
 
 ## Objetivos
 

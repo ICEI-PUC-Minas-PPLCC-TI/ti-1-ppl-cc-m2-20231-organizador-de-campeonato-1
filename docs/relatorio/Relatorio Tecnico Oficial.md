@@ -54,8 +54,8 @@ mes](#wireframes)
 
 ## Objetivos
 
-> O objetivo geral é desenvolver um site que organiza campeonatos de Fifa de uma forma simples e prática.
-> Os objetivos específicos são criar campeonatos com premiações para os participantes e proporcionar uma experiência mais competitiva para os jogadores. 
+> O objetivo geral é desenvolver um site que organiza campeonatos de Fifa de uma forma simples e prática, de forma que agrade todos os tipos de pessoas,            organizando campeonatos com o principal objetivo de ser divertido de jogar, salvando os placares das partidas, para que assim os organizadores possam ter um      controle maior sob o campeonato.
+> Os objetivos específicos são criar campeonatos que sejam justos, ou seja, os campeonatos organizados pelo site terão restrição de divisão, que são da 10 ate a    elite (sistema de divisões do Fifa), assim os campeonatos não ficam injustos e fica divertido para todos jogadores. 
 
 ## Justificativa
 
